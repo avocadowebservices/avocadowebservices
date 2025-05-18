@@ -41,8 +41,8 @@ We're not just building software. We're building a **movement** — to show the 
 
 - 🌐 [AvocadoWeb.net](https://avocadoweb.net)
 - 📧 [Contact Us](https://avocadoweb.net/contact)
-- 🐦 Twitter/X: [@AvocadoWebHost]((https://www.x.com/avocadowebnet))
-- 💼 LinkedIn: [Joseph Brzezowski]((https://www.linkedin.com/company/avocadoweb-services))
+- 🐦 Twitter/X: [@AvocadoWebHost](https://www.x.com/avocadowebnet)
+- 💼 LinkedIn: [Joseph Brzezowski](https://www.linkedin.com/company/avocadoweb-services)
 
 ---
 
